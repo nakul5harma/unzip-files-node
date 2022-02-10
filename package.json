@@ -1,0 +1,31 @@
+{
+  "name": "unzip-files-node",
+  "version": "1.0.0",
+  "description": "Unzip password-protected or non-password-protected zip files in-memory with NodeJS",
+  "scripts": {
+    "test": "node ./src/main.js"
+  },
+  "author": {
+    "name": "Nakul Sharma",
+    "email": "nakul.165376@gmail.com",
+    "url": "https://www.linkedin.com/in/nakul5harma/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nakul5harma/mantra-avdm-react"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "javascript",
+    "zip",
+    "unzip",
+    "password",
+    "password-protected",
+    "unzippper"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "unzipper": "^0.10.11"
+  }
+}
